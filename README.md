@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikita
 - 👀 I’m interested in FrontEnd Development
-- 🌱 I’m currently learning Pytohn/C++ and practicing in HTML/CSS 
+- 🌱 I’m currently learning Python/C++ and practicing in HTML/CSS 
 - 📫 How to reach me in <a href="https://www.linkedin.com/in/hinn-q-93689422a/">LinkedIn</a>
 
 <!---
